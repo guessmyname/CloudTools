@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudTools.ServiceDiscovery
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{601F8CAD-891D-4675-92B7-D622CFD2A96F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests", "Tests\CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests\CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests.csproj", "{C2058324-13FF-4264-BD98-DDA8B4AD53CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests", "Tests\CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests\CloudTools.ServiceDiscovery.AutoRegister.Consul.Tests.csproj", "{C2058324-13FF-4264-BD98-DDA8B4AD53CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DD6FBE4-2DE4-4825-AEA3-850DA8D77D5C}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
